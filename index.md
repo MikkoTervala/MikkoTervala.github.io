@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-[## The Electric Longboard](./longboard.html).
+## [The Electric Longboard](./longboard.html).
 
 
 
