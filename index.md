@@ -3,7 +3,15 @@ layout: default
 ---
 
 
-## [The Electric Longboard](./longboard.html).
+## [The Electric Longboard](./longboard.html)
+
+## [Automated Greenhouse](./greenhouse.html)
+
+## [DIY Fiber Internet](./fiber.html)
+
+## [Home Automation](./home-automation.html)
+
+## [Homelab Server](./homelab.html)
 
 
 
