@@ -15,19 +15,19 @@ This thing here is my pride and joy. It’s built completely from scratch, I eve
 * Top speed depends on gearing, currently 35km/h
 
 
-![Longboard](\assets\longboard_2.jpg)
+![Longboard](\assets\longboard_2.jpg)\
 
 ### Testing a new motor mounting plate using 3d printed models
-![Longboard](\assets\longboard_3.jpg)
+![Longboard](\assets\longboard_3.jpg)\
 
 ### A new motor mount plate manufactured from steel
-![Longboard](\assets\longboard_4.jpg)
+![Longboard](\assets\longboard_4.jpg)\
 
 ### Drawings used to make the new mounting plate
-![Longboard](\assets\longboard_7.jpg)
+![Longboard](\assets\longboard_7.jpg)\
 
 ### Gluing the longboard deck together in a press
-![Longboard](\assets\longboard_5.jpg)
+![Longboard](\assets\longboard_5.jpg)\
 
 ### The new longboard deck after gluing
 ![Longboard](\assets\longboard_6.jpg)
