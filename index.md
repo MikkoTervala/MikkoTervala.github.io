@@ -17,6 +17,13 @@ An automated watering system for crops
 
 * * *
 
+## [Hot Tub Thermostat](./hot-tub.html)
+ESP-32 microcontroller based water thermostat with wireless bluetooth temperature sensor
+
+![Complete device](https://github.com/MikkoTervala/hot-tub-thermostat/blob/15489d8e10850ae11e7a28fb34a6d1e8b95e7a0e/images/complete_device.jpeg)
+
+* * *
+
 ## [DIY Fiber Internet](./fiber.html)
 If your ISP won't run fiber, do it yourself
 
