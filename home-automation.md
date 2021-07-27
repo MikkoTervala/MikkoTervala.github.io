@@ -31,7 +31,7 @@ My extensive home automation system provides small quality of life improvements 
 ### One of my first light controllers being replaced with a new wifi model. The original system was based on a RTC clock and a brightness sensor in a window
 ![Home Assistant](\assets\automation_6.jpg)
 
-### Two of my latest generation six channel LED dimmers being built. See MikkoTervala/esp32-dimmer
+### Two of my latest generation six channel LED dimmers being built. See [MikkoTervala/esp32-dimmer](https://github.com/MikkoTervala/esp32-dimmer)
 ![Home Assistant](\assets\automation_7.jpg)
 
 
