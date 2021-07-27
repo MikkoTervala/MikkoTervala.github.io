@@ -20,8 +20,7 @@ This thing here is my pride and joy. It’s built completely from scratch, I eve
 
 
 ### Testing a new motor mounting plate using 3d printed models
-![Longboard](\assets\longboard_3.jpg)
-
+![Longboard](\assets\longboard_3.jpg)  
 
 ### A new motor mount plate manufactured from steel
 ![Longboard](\assets\longboard_4.jpg)
