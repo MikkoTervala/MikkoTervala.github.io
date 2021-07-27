@@ -56,3 +56,10 @@ A short video originated from not planning anything during vacation
 
 ![10 Seconds](https://img.youtube.com/vi/9oCMNCKRKa0/0.jpg)
 
+* * *
+
+## [YouTube Video - Mycelium growth of Flammulina velutipes](./youtube-mycelium.html)
+Final product produced by a student I was mentoring
+
+![10 Seconds](https://img.youtube.com/vi/o4KY3QmQiVQ/0.jpg)
+
