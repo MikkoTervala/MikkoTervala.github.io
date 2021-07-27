@@ -51,7 +51,7 @@ Humorous VLOG about purchasing water
 
 * * *
 
-## [YouTube Video - Tokyo Water VLOG](./youtube-tokyo.html)
+## [YouTube Video - 10 Seconds of Content](./youtube-10seconds.html)
 A short video originated from not planning anything during vacation
 
 ![10 Seconds](https://img.youtube.com/vi/9oCMNCKRKa0/0.jpg)
