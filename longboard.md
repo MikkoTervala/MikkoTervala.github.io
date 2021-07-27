@@ -23,8 +23,8 @@ This thing here is my pride and joy. It’s built completely from scratch, I eve
 ![Longboard](\assets\longboard_3.jpg)  
 
 ### A new motor mount plate manufactured from steel
-![Longboard](\assets\longboard_4.jpg) \ 
-
+![Longboard](\assets\longboard_4.jpg)
+  
 
 ### Drawings used to make the new mounting plate
 ![Longboard](\assets\longboard_7.jpg)
