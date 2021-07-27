@@ -10,10 +10,10 @@ My automatic watering system keeps my mother’s greenhouse perfectly irrigated 
 
 
 ### User interface for adjusting automatic watering
-![Greenouse](\assets\greenhouse_3.jpg)\
+![Greenouse](\assets\greenhouse_3.jpg)
 
 ### Humidity, temperature and CO2 readings from the greenhouse as well as a switch to control the outdoor water faucet
-![Greenouse](\assets\greenhouse_4.jpg)\
+![Greenouse](\assets\greenhouse_4.jpg)
 
 ![Greenouse](\assets\greenhouse_2.jpg)
 
