@@ -5,11 +5,13 @@ layout: default
 
 ## [The Electric Longboard](./longboard.html)
 An electric motor powered longboard, built completely from scratch
-![Longboard](\assets\longboard_1.jpg)\
+
+![Longboard](\assets\longboard_1.jpg)
 
 ## [Automated Greenhouse](./greenhouse.html)
 An automated watering system for crops
-![Greenouse](\assets\greenhouse_1.jpg)\
+
+![Greenouse](\assets\greenhouse_1.jpg)
 
 ## [DIY Fiber Internet](./fiber.html)
 If your ISP won't run fiber, do it yourself
