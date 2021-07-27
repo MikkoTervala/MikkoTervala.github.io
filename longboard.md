@@ -5,7 +5,7 @@ layout: default
 # The Electric Longboard
 
 ![Longboard](\assets\longboard_1.jpg)
-![Longboard](\assets\longboard_9.jpg)
+![Longboard](\assets\photography_1.jpg)
 
 This thing here is my pride and joy. It’s built completely from scratch, I even glued together the deck from sheets of plywood. Battery and electronics housings are designed by me and 3d printed from PETG plastic. The longboard has gone through multiple rebuilds during the years, and almost all components have been upgraded at some point.
 
