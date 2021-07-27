@@ -41,3 +41,8 @@ Home automatios that control most of our house electronics
 
 ## [Homelab Server](./homelab.html)
 My server system for running services at home and for friends
+
+* * *
+
+## [YouTube Video - Tokyo Water VLOG](./youtube-tokyo.html)
+Humorous VLOG about purchasing water
