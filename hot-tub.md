@@ -22,5 +22,5 @@ Digital temperature controller for an outdoor hot tub with wireless bluetooth te
 
 The system acts as a thermostat controlling temperature of an outdoor hot tub. The hot tub is heated with a natural gas instant lake water heater. As temperature goes down, the thermostat will let more hot water in. The thermostat will be installed near the water heater, so a wireless temperature sensor is used to avoid wires.
 
-![Complete device](https://github.com/MikkoTervala/hot-tub-thermostat/blob/15489d8e10850ae11e7a28fb34a6d1e8b95e7a0e/images/complete_device.jpeg)
-![Electronics](https://github.com/MikkoTervala/hot-tub-thermostat/blob/15489d8e10850ae11e7a28fb34a6d1e8b95e7a0e/images/electronics.jpeg)
+![Complete device](https://raw.githubusercontent.com/MikkoTervala/hot-tub-thermostat/main/images/complete_device.jpeg)
+![Electronics](https://raw.githubusercontent.com/MikkoTervala/hot-tub-thermostat/main/images/electronics.jpeg)
