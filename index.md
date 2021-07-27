@@ -63,3 +63,8 @@ Final product produced by a student I was mentoring
 
 ![10 Seconds](https://img.youtube.com/vi/o4KY3QmQiVQ/0.jpg)
 
+* * *
+
+## [Photography by me](./photography.html)
+Some of the best photos I have taken
+
