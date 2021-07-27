@@ -46,3 +46,13 @@ My server system for running services at home and for friends
 
 ## [YouTube Video - Tokyo Water VLOG](./youtube-tokyo.html)
 Humorous VLOG about purchasing water
+
+![Tokyo VLOG](https://img.youtube.com/vi/C43wg2ndKJQ/0.jpg)
+
+* * *
+
+## [YouTube Video - Tokyo Water VLOG](./youtube-tokyo.html)
+A short video originated from not planning anything during vacation
+
+![10 Seconds](https://img.youtube.com/vi/9oCMNCKRKa0/0.jpg)
+
