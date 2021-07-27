@@ -11,6 +11,8 @@ layout: default
 
 ![Photo](\assets\photography_4.jpg)
 
+![Photo](\assets\photography_6.jpg)
+
 ### Me and a friend installing LTE antennas on a roof at night
 ![Photo](\assets\photography_5.jpg)
 
