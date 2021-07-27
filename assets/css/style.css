@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+
 
 .wrapper {
     width:360px;
@@ -13,3 +13,5 @@ section {
   float:right;
   padding-bottom:50px;
 }
+
+@import "{{ site.theme }}";
