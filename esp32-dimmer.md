@@ -21,6 +21,6 @@ Multiple units in use by me and friends.
 ![Home Assistant](\assets\automation_7.jpg)
 
 ### PCB Design
-![3D view](https://github.com/MikkoTervala/esp32-dimmer/blob/825c3ed1709bc6de87b25ecd7f8679c2afbad7b0/images/3d_view.png)
-![PCB view](https://github.com/MikkoTervala/esp32-dimmer/blob/825c3ed1709bc6de87b25ecd7f8679c2afbad7b0/images/pcb_view.png)
+![3D view](https://raw.githubusercontent.com/MikkoTervala/hot-tub-thermostat/main/images/3d_view.png)
+![PCB view](https://raw.githubusercontent.com/MikkoTervala/hot-tub-thermostat/main/images/pcb_view.png)
 
