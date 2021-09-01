@@ -8,6 +8,11 @@ Hi and welcome to my project repository! Here I'm showcasing a few of my hobby p
 These are projects I do as a hobby, so this repository reflects what I do for fun. Note that this does not represent my skills in **software engineering**, as I only do that for work.
 
 
+## [Home Automation](./home-automation.html)
+Home automatios that control most of our house
+
+* * *
+
 ## [The Electric Longboard](./longboard.html)
 An electric motor powered longboard, built completely from scratch
 
@@ -29,13 +34,15 @@ ESP-32 microcontroller based water thermostat with wireless bluetooth temperatur
 
 * * *
 
-## [DIY Fiber Internet](./fiber.html)
-If your ISP won't run fiber, do it yourself
+## [Six channel LED dimmer PCB](./esp32-dimmer.html)
+Six channel PWM LED dimmer with ESP32 microcontroller used for home automation
+
+![3D view](https://github.com/MikkoTervala/esp32-dimmer/blob/825c3ed1709bc6de87b25ecd7f8679c2afbad7b0/images/3d_view.png)
 
 * * *
 
-## [Home Automation](./home-automation.html)
-Home automatios that control most of our house electronics
+## [DIY Fiber Internet](./fiber.html)
+If your ISP won't run fiber, do it yourself
 
 * * *
 
