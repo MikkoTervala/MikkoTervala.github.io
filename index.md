@@ -7,6 +7,7 @@ layout: default
 Hi and welcome to my project repository! Here I'm showcasing a few of my hobby projects.
 These are projects I do as a hobby, so this repository reflects what I do for fun. Note that this does not represent my skills in **software engineering**, as I only do that for work.
 
+* * *
 
 ## [Home Automation](./home-automation.html)
 Home automatios that control most of our house
