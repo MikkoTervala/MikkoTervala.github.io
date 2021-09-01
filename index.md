@@ -38,7 +38,7 @@ ESP-32 microcontroller based water thermostat with wireless bluetooth temperatur
 ## [Six channel LED dimmer PCB](./esp32-dimmer.html)
 Six channel PWM LED dimmer with ESP32 microcontroller used for home automation
 
-![3D view](https://raw.githubusercontent.com/MikkoTervala/hot-tub-thermostat/main/images/3d_view.png)
+![3D view](https://raw.githubusercontent.com/MikkoTervala/esp32-dimmer/main/images/3d_view.png)
 
 * * *
 
