@@ -55,21 +55,21 @@ My server system for running services at home and for friends
 ## [YouTube Video - Tokyo Water VLOG](./youtube-tokyo.html)
 Humorous VLOG about purchasing water
 
-![Tokyo VLOG](https://img.youtube.com/vi/C43wg2ndKJQ/0.jpg)
+[![IMAGE_ALT](https://img.youtube.com/vi/C43wg2ndKJQ/0.jpg)](https://www.youtube.com/watch?v=C43wg2ndKJQ)
 
 * * *
 
 ## [YouTube Video - 10 Seconds of Content](./youtube-10seconds.html)
 A short video originated from not planning anything during vacation
 
-![10 Seconds](https://img.youtube.com/vi/9oCMNCKRKa0/0.jpg)
+[![IMAGE_ALT](https://img.youtube.com/vi/9oCMNCKRKa0/0.jpg)](https://www.youtube.com/watch?v=9oCMNCKRKa0)
 
 * * *
 
 ## [YouTube Video - Mycelium growth of Flammulina velutipes](./youtube-mycelium.html)
 Final product produced by a student I was mentoring
 
-![10 Seconds](https://img.youtube.com/vi/o4KY3QmQiVQ/0.jpg)
+[![IMAGE_ALT](https://img.youtube.com/vi/o4KY3QmQiVQ/0.jpg)](https://www.youtube.com/watch?v=o4KY3QmQiVQ)
 
 * * *
 
