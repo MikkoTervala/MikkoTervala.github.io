@@ -21,6 +21,6 @@ Multiple units in use by me and friends.
 ![Home Assistant](\assets\automation_7.jpg)
 
 ### PCB Design
-![3D view](https://raw.githubusercontent.com/MikkoTervala/esp32-dimmer/main/images/3d_view.png)
-![PCB view](https://raw.githubusercontent.com/MikkoTervala/esp32-dimmer/main/images/pcb_view.png)
+![3D view](https://raw.githubusercontent.com/MikkoTervala/esp32-dimmer/master/images/3d_view.png)
+![PCB view](https://raw.githubusercontent.com/MikkoTervala/esp32-dimmer/master/images/pcb_view.png)
 
