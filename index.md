@@ -11,10 +11,10 @@ Here you can find the hobby projects I work on during my free time.
 
 * * *
 
-## [Homelab network and server diagram]({{homelab_url}})
+## [Homelab network and server diagram]({{page.homelab_url}})
 My home network and server diagram, including a fiber run to our neighbor and redundant DHCP and DNS
 
-[![Network Diagram]({{homelab_url}})]({{homelab_url}})
+[![Network Diagram]({{page.homelab_url}})]({{page.homelab_url}})
 
 * * *
 
