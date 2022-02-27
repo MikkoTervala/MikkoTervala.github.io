@@ -26,28 +26,28 @@ Home automatios that control most of our house
 ## [The Electric Longboard](./longboard.html)
 An electric motor powered longboard, built completely from scratch
 
-![Longboard](\assets\longboard_1.jpg)
+[![Longboard](\assets\longboard_1.jpg)](./longboard.html)
 
 * * *
 
 ## [Automated Greenhouse](./greenhouse.html)
 An automated watering system for crops
 
-![Greenouse](\assets\greenhouse_1.jpg)
+[![Greenouse](\assets\greenhouse_1.jpg)](./greenhouse.html)
 
 * * *
 
 ## [Hot Tub Thermostat](./hot-tub.html)
 ESP-32 microcontroller based water thermostat with wireless bluetooth temperature sensor
 
-![Complete device](https://raw.githubusercontent.com/MikkoTervala/hot-tub-thermostat/main/images/complete_device.jpeg)
+[![Complete device](https://raw.githubusercontent.com/MikkoTervala/hot-tub-thermostat/main/images/complete_device.jpeg)](./hot-tub.html)
 
 * * *
 
 ## [Six channel LED dimmer PCB](./esp32-dimmer.html)
 Six channel PWM LED dimmer with ESP32 microcontroller used for home automation
 
-![3D view](https://raw.githubusercontent.com/MikkoTervala/esp32-dimmer/master/images/3d_view.png)
+[![3D view](https://raw.githubusercontent.com/MikkoTervala/esp32-dimmer/master/images/3d_view.png)](./esp32-dimmer.html)
 
 * * *
 
