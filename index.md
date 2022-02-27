@@ -5,6 +5,7 @@ layout: default
 # Project Repository
 
 Hi and welcome to my project repository!
+
 Here you can find the hobby projects I work on during my free time.
 
 * * *
