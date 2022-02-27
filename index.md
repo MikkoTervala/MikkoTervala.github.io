@@ -1,5 +1,6 @@
 ---
 layout: default
+homelab_url: https://raw.githubusercontent.com/MikkoTervala/homelab-diagram/main/Homelab-network-diagram.drawio.png
 ---
 
 # Project Repository
@@ -10,11 +11,10 @@ Here you can find the hobby projects I work on during my free time.
 
 * * *
 
-## [Homelab network and server diagram](https://raw.githubusercontent.com/MikkoTervala/homelab-diagram/main/Homelab-network-diagram.drawio.png)
+## [Homelab network and server diagram]({{homelab_url}})
 My home network and server diagram, including a fiber run to our neighbor and redundant DHCP and DNS
 
-
-[![Network Diagram](https://raw.githubusercontent.com/MikkoTervala/homelab-diagram/main/Homelab-network-diagram.drawio.png)](https://raw.githubusercontent.com/MikkoTervala/homelab-diagram/main/Homelab-network-diagram.drawio.png)
+[![Network Diagram]({{homelab_url}})]({{homelab_url}})
 
 * * *
 
