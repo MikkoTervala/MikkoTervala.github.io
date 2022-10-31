@@ -33,4 +33,3 @@ Vaaka-asennossa lähetetyt kuvat ja videot näkyy näytöllä suurempina.
 ![Helvin kuvataulu](\assets\kuvataulu_1.jpg)
 
 ![Helvin kuvataulu](\assets\kuvataulu_2.jpg)
-
