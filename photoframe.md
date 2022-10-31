@@ -25,13 +25,10 @@ Voit asentaa sen puhelimen sovelluskaupasta:
 
 ## Tietoa kuvataulusta
 
-Kuvan mukana voi lähettää myös lyhyen tekstin joka näytetään näytöllä.<br>
-Kuvataulu säilyttää viimeiset 30 kuvaa ja näyttää niitä automaattisesti.<br>
-Kuvatauluun voi lähettää myös lyhyitä videoita. Näyttö ei toista ääniä.
-Vaaka-asennossa lähetetyt kuvat ja videot näkyy näytöllä suurempina.
-
-Roses are red
-Violets are blue
+* Kuvan mukana voi lähettää myös lyhyen tekstin joka näytetään näytöllä.
+* Kuvataulu säilyttää viimeiset 30 kuvaa ja näyttää niitä automaattisesti.
+* Kuvatauluun voi lähettää myös lyhyitä videoita. Näyttö ei toista ääniä.
+* Vaaka-asennossa lähetetyt kuvat ja videot näkyy näytöllä suurempina.
 
 ![Helvin kuvataulu](\assets\kuvataulu_1.jpg)
 
